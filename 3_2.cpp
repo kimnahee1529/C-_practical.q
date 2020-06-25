@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+//stoi()를 이용해 문자열"1945/8/15"를 숫자로 바꾸기, '/'문자 되기 전까지가 조건문
 class Date {
 	int year, month, day;
 public:
