@@ -2,7 +2,8 @@
 #include <cstdlib>
 #include <ctime>
 using namespace std;
-
+// <cstdlib>헤더파일에 선언되어 있는 정수 32767인 RAND_MAX
+//랜덤정수 생성하기 위해 필요한 srand((unsigned)time(0)); int n=rand();함수가 있는 <
 class Random {
 public:
 	Random();
