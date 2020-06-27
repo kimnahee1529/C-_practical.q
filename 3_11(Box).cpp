@@ -1,4 +1,5 @@
 //Box.h
+#pragma once
 class Box {
 	int width, height;
 	char fill;
