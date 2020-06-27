@@ -1,4 +1,5 @@
 //Calculator.h
+#pragma once
 class Add {
 	int a, b;
 public:
