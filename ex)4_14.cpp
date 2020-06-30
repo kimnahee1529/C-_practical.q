@@ -1,3 +1,4 @@
+//문자열 덧셈식을 입력받아 
 #include <iostream>
 #include <string>
 using namespace std;
